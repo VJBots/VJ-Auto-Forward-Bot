@@ -1,13 +1,15 @@
 class Translation(object):
 
       # Start text
-      START = "Hi I am a channel auto forward bot clone of <a href='https://t.me/Autoforward_Nsbot'>Channel Automatic NS bot</a>. \nMake your own bot now 👉 Source code \n\n<b>Support Channel and Groups:</b>\n @Ns_bot_updates, @Ns_Bot_supporters"             
+      START = "Hi I am a channel auto forward bot of <a href='https://t.me/VJ_Botz'>Channel Automatic VJ bot</a>. \nMake your own bot now 👉 Source code \n\n<b>Support Channel and Groups:</b>\n @VJ_Bots, @VJ_Bot_disscussion"             
 
       #About text
-      ABOUT = """
-<b>📝 Language:</b> Python 3
-<b>🧰 Framework:</b> Pyrogram
-<b>👨‍💻 Developer:</b> 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬
-<b>📢 Channel:</b> NS BOT UPDATES
-<b>👥 Group:</b> Ns BOT SUPPORT
-<b>🌐Source Code:</b> Press Me 🥰"""
+      ABOUT = """<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/VJ_Botz>ᵗʰᵃˡᵃᵖᵃᵗʰʸ ᶠⁱˡᵗᵉʳ ᵇᵒᵗ 🇮🇳</a>
+ ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/kingvj01'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
+ ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
+ ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
+ ‣ ʙᴏᴛ sᴇʀᴠᴇʀ : <a href='https://heroku.com'>Heroku</a> 
+ ‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ2.7.1 [sᴛᴀʙʟᴇ]></b>"""
