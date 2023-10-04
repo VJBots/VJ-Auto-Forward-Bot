@@ -15,7 +15,7 @@ Use these commands:
 • Build Command: <code>pip3 install -U -r requirements.txt</code>
 <br>
 <br>
-• Start Command: <code>gunicorn app:app & python3 main.py</code>
+• Start Command: <code>gunicorn app:app & python3 bot.py</code>
 <br>
 <br>
 Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
