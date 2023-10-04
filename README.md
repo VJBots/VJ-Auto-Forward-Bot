@@ -4,11 +4,6 @@ A Simple telegram bot written in python to forward your files from one channel t
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/VJBots/VJ-AUTO-FORWARD-BOT/tree/main)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/VJ_Botz)
 
-## How to Deploy? 🤔
-You can deploy this code any where you want but we provided heroku and railway deploy methods below
-
-- Select one of the methods
-
 ### Deploy To Render 
 
 <details><summary>Deploy To Render</summary>
@@ -39,6 +34,11 @@ Use these settings when adding a monitor:</b>
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
 </a>
 </details>
+
+## How to Deploy? 🤔
+You can deploy this code any where you want but we provided heroku and railway deploy methods below
+
+- Select one of the methods
 
       [![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot)
 
