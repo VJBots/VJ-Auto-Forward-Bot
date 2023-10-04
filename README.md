@@ -40,9 +40,9 @@ Use these settings when adding a monitor:</b>
 </a>
 </details>
 
-     - [![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot)
+      [![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot)
 
-     - [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wEf927)
+      [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/wEf927)
 
 - Go to  [my.telegram.org](https://my.telegram.org/)
      - And get your API ID
